@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "id": 3045,
+      "name": "Sepatu"
+    },
+    {
+      "id": 3369,
+      "name": "Smartphone"
+    }
+  ],
+  "products": [
+    {
+        "id": "c29291e8-8e76-4821-aba8-4e075422c47e",
+        "name": "Katakita - Katakita Sepatu Verlin Flatshoes Wanita",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b4952a90-113c-4dee-afc9-6e94c5d7430c",
+        "resellerPrice": 89225,
+        "retailPrice": 185000,
+        "category": {
+            "id": 3045,
+            "name": "Sepatu"
+        },
+        "brandName": "Katakita",
+        "districtName": "Bogor",
+        "hasDiscount": true,
+        "stock": 296,
+        "slug": "katakita-katakita-sepatu-verlin-flatshoes-wanita"
+    },
+    {
+        "id": "18748764-0434-479d-8619-4cea51d69156",
+        "name": "Sepatu Wanita D-14 Korea Terbaru 2022 Kekinian Original Asli Import Wanita Sneakers Lari OOTD Travel",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/c621e147-aa20-41ef-8af0-898ab4e13e00",
+        "resellerPrice": 92070,
+        "retailPrice": 99000,
+        "category": {
+            "id": 3045,
+            "name": "Sepatu"
+        },
+        "hasDiscount": true,
+        "districtName": "Mojokerto",
+        "brandName": "Hipzo",
+        "stock": 453,
+        "slug": "sepatu-wanita-d-14-korea-terbaru-2022-kekinian-original-asli-import-wanita-sneakers-lari-ootd-travel"
+    },
+    {
+        "id": "42afe7c7-65e5-45a3-b7ea-56eb932c84aa",
+        "name": "Hipzo - Hipzo-HIPZO Sepatu Sneaker M066 Casual Original Untuk Pria Dewasa Kerja Kuliah",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b7e6b3-d35d-4b31-8c77-b771e8f8112a",
+        "resellerPrice": 111600,
+        "retailPrice": 420000,
+        "category": {
+            "id": 3045,
+            "name": "Sepatu"
+        },
+        "hasDiscount": true,
+        "districtName": "Mojokerto",
+        "brandName": "Hipzo",
+        "stock": 13949,
+        "slug": "hipzo-hipzo-hipzo-sepatu-sneaker-m066-casual-original-untuk-pria-dewasa-kerja-kuliah"
+    },
+    {
+        "id": "865c88e3-1520-41f4-b1fb-b11ca9519c55",
+        "name": "Hipzo - Hipzo- HIPZO Sepatu Sporty M067 Kerja Original Untuk Pria Wanita Kerja Pabrik Tambang Proyek",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/92d636d2-d60e-4625-a706-7e6ac9fb7d5c",
+        "resellerPrice": 130200,
+        "retailPrice": 380000,
+        "category": {
+            "id": 3045,
+            "name": "Sepatu"
+        },
+        "hasDiscount": true,
+        "districtName": "Mojokerto",
+        "brandName": "Hipzo",
+        "stock": 1994,
+        "slug": "hipzo-hipzo-hipzo-sepatu-sporty-m067-kerja-original-untuk-pria-wanita-kerja-pabrik-tambang-proyek"
+    },
+    {
+        "id": "ea205bb1-b946-4857-9a41-a151a743e838",
+        "name": "Eagle - Sepatu Badminton VOLTAGE",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/030f30a2-e263-41aa-a4d5-c00d2a9c7841",
+        "resellerPrice": 247544,
+        "retailPrice": 319000,
+        "category": {
+            "id": 3045,
+            "name": "Sepatu"
+        },
+        "hasDiscount": true,
+        "districtName": "Semarang",
+        "brandName": "Eagle",
+        "stock": 81,
+        "slug": "eagle-sepatu-badminton-voltage"
+    },
+    {
+        "id": "ea6c1b6c-9534-44b5-8716-314e1070144d",
+        "name": "MR Irka Phone - Mr Irka - Iphone 13",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1a1b3536-29a6-46c5-8ba5-e2cb6cf6ee13",
+        "resellerPrice": 10349440,
+        "retailPrice": 10493980,
+        "category": {
+            "id": 3369,
+            "name": "Smartphone"
+        },
+        "hasDiscount": true,
+        "districtName": "Tasikmalaya",
+        "brandName": "MR. Irka Phone",
+        "stock": 2,
+        "slug": "mr-irka-phone-mr-irka-iphone-13"
+    },
+    {
+        "id": "560631f4-316f-43bf-88ac-41fbb4bdc405",
+        "name": "MR. Irka Phone - Mr Irka - Iphone 11",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/31a2dc5a-af45-4df4-93a2-6099a6549c99",
+        "resellerPrice": 7823970,
+        "retailPrice": 7993000,
+        "category": {
+            "id": 3369,
+            "name": "Smartphone"
+        },
+        "hasDiscount": true,
+        "districtName": "Tasikmalaya",
+        "brandName": "MR. Irka Phone",
+        "stock": 18,
+        "slug": "mr-irka-phone-mr-irka-iphone-11"
+    },
+    {
+        "id": "f47417e3-f80f-4897-8e82-1ee431d89443",
+        "name": "One Space - HP Apple Iphone 13 128GB Garansi Resmi IBox Indonesia",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/5c904040-bcd4-4fb3-85a4-c7d37152326f",
+        "resellerPrice": 11403810,
+        "retailPrice": 11519000,
+        "category": {
+            "id": 3369,
+            "name": "Smartphone"
+        },
+        "hasDiscount": false,
+        "districtName": "Jakarta Pusat",
+        "brandName": "One Space",
+        "stock": 46,
+        "slug": "one-space-hp-apple-iphone-13-128gb-garansi-resmi-ibox-indonesia"
+    },
+    {
+        "id": "574a9fbf-1062-4d72-9235-14edbfb551c5",
+        "name": "One Space - HP Apple Iphone 13 256GB Garansi Resmi IBox Indonesia",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/8d468fce-707b-4d26-ab66-b3430b911f9b",
+        "resellerPrice": 13975830,
+        "retailPrice": 14117000,
+        "category": {
+            "id": 3369,
+            "name": "Smartphone"
+        },
+        "hasDiscount": false,
+        "districtName": "Jakarta Pusat",
+        "brandName": "One Space",
+        "stock": 60,
+        "slug": "one-space-hp-apple-iphone-13-256gb-garansi-resmi-ibox-indonesia"
+    },
+    {
+        "id": "b51b73c3-2b0e-488d-83a6-b8c232fc3536",
+        "name": "One Space - HP Apple Iphone 14 512GB Garansi Resmi IBox Indonesia",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1b4063e5-f0d7-4f2c-bc08-d90c856b1863",
+        "resellerPrice": 20210850,
+        "retailPrice": 20415000,
+        "category": {
+            "id": 3369,
+            "name": "Smartphone"
+        },
+        "hasDiscount": false,
+        "districtName": "Jakarta Pusat",
+        "warehouseLabel": "Jakarta Pusat",
+        "brandName": "One Space",
+        "stock": 40,
+        "slug": "one-space-hp-apple-iphone-14-512gb-garansi-resmi-ibox-indonesia"
+    }
+  ]
+}
