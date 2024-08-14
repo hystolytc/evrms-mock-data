@@ -1,0 +1,50 @@
+[
+  {
+      "id": "1efd66c0-ead4-4c2e-b184-e3d594c1d94d",
+      "name": "Pustaka Arafah - Buku Ta'lim Mutaallim",
+      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
+      "discountPrice": 35482,
+      "price": 45000,
+      "category": {
+          "id": 3716,
+          "name": "Buku"
+      },
+      "hasDiscount": true,
+      "districtName": "Sukoharjo",
+      "brandName": "Pustaka Arafah",
+      "stock": 96,
+      "slug": "pustaka-arafah-buku-ta-27lim-mutaallim"
+  },
+  {
+      "id": "1d0698e9-2925-4728-a5f5-0c729814e9f0",
+      "name": "Mizan Buku Pop-Up ABC",
+      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/mizan/product/image/62faf1154568c.jpg",
+      "discountPrice": 122550,
+      "price": 129000,
+      "category": {
+          "id": 3716,
+          "name": "Buku"
+      },
+      "hasDiscount": false,
+      "districtName": "Depok",
+      "brandName": "Mizan",
+      "stock": 98,
+      "slug": "mizan-buku-pop-up-abc"
+  },
+  {
+      "id": "eaec77ff-589a-4888-9900-440bbdbad6e1",
+      "name": "Gema Insani Buku Healthy Lifestyle",
+      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/gema-insani/product/image/5fa116e59d986.jpg",
+      "discountPrice": 52560,
+      "price": 73000,
+      "category": {
+          "id": 3716,
+          "name": "Buku"
+      },
+      "hasDiscount": false,
+      "districtName": "Depok",
+      "brandName": "Gema Insani",
+      "stock": 49,
+      "slug": "gema-insani-buku-healthy-lifestyle"
+  }
+]
