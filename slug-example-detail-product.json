@@ -1,0 +1,56 @@
+{
+    "id": "c29291e8-8e76-4821-aba8-4e075422c47e",
+    "name": "Katakita - Katakita Sepatu Verlin Flatshoes Wanita",
+    "slug": "katakita-katakita-sepatu-verlin-flatshoes-wanita",
+    "categoryId": 3045,
+    "description": "Sempurnakan penampilan cantik kamu setiap hari dengan Sandal Cantik dari KATAKITA OFFICIAL SHOP yang modis serta nyaman ini. Sandal wanita ini terbuat dari material berkualitas yang membuat kamu merasa nyaman saat memakainya.\n\nVerlin Flatshoes\n\nDETAIL PRODUCT :\nMaterial : Kulit Sintetis Premium\nSol : Non Slip\n\n(Disarankan untuk upsize 1 nomor)\nSIZE INSOLE :\n37 : 23 cm\n38 : 23,5 cm\n39 : 24 cm\n40 : 24,5cm\n41 : 25 cm\n\n\nWarna : Tersedia Warna \n\n\n- Black\n- Cream\n- Burgundy\n- Silver\n- Grey\n\nCara Mengetahui Ukuran Sepatu :\n\n1. Siapkan penggaris, pensil dan kertas.\n2. Letakkan kaki di atas kertas, lalu ukur panjang Telapak kaki dengan penggaris.\n3. Beri tanda dengan PENSIL : Tumit belakang dan ujung jari kaki.\n4. Hitung dengan penggaris panjang telapak kaki (dalam CM / centimeter).\n5. Jika ukuran kaki 23,5cm pilih size 39, jika ukuran kaki 24cm pilih size 40\n6. Disarankan untuk upsize dari ukuran kaki, Lihat keterangan yang tertera di Bagian SIZE INSOLE.\n\n\nPerawatan :\nUntuk menjaga kondisi sepatu lap noda dengan kain lembut. Simpan dalam kotak dengan silika gel.\n\n\nNOTE FOR CUSTOMER :\n- PASTIKAN PRODUK TELAH SESUAI PESANAN SEBELUM KLIK SELESAI (Jika ada kendala tapi sudah menyelesaikan pesanan kami tidak akan bertanggung jawab)\n- jika ada alternatif warna/size harap beri info di kolom catatan untuk menghindari barang SOLD.\n- Proses pengemasan 1-3 hari. Tapi kami usahakan 1 hari di kemas .\n- Jika ada keluhan, produk yg di terima tidak sesuai silahkan hubungi CS kami terlebih dahulu karena semua permasalahan akan di bantu hingga selesai. Jadi kami harap bisa menerima review penilaian dan bintang yang baik.\n\nJam Operasional Admin :\nSenin s/d Minggu jam 08:00 s/d 23:00 WIB.\nHari Minggu dan Hari Libur Nasional OFF",
+    "retailPrice": 185000,
+    "price": 89225,
+    "weight": 0,
+    "stock": 296,
+    "labelVariant": "Warna",
+    "labelSubVariant": "Ukuran",
+    "warehouseAddress": "Bogor",
+    "categoryName": "Sepatu",
+    "brandName": "Katakita",
+    "images": [
+        "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/b4952a90-113c-4dee-afc9-6e94c5d7430c"
+    ],
+    "variants": [
+      {
+        "value": "White",
+        "defaultSubVariantValue": "37",
+        "stock": 97,
+        "images": [
+            "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/e9df3848-9b5d-421a-ba0d-d0dd4c3c5262",
+            "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/953c1660-a599-4712-8b7d-a96fb246ab5e"
+        ],
+        "subVariants": [
+            {
+                "value": "37",
+                "stock": 19
+            },
+            {
+                "value": "38",
+                "stock": 20
+            }
+        ]
+      },
+      {
+        "value": "Black",
+        "defaultSubVariantValue": "37",
+        "stock": 97,
+        "images": [],
+        "subVariants": [
+            {
+                "value": "37",
+                "stock": 19
+            },
+            {
+                "value": "38",
+                "stock": 20
+            }
+        ]
+      }
+    ]
+  }

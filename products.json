@@ -12,18 +12,6 @@
       "slug": "katakita-katakita-sepatu-verlin-flatshoes-wanita"
   },
   {
-      "id": "18748764-0434-479d-8619-4cea51d69156",
-      "name": "Sepatu Wanita D-14 Korea Terbaru 2022 Kekinian Original Asli Import Wanita Sneakers Lari OOTD Travel",
-      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/c621e147-aa20-41ef-8af0-898ab4e13e00",
-      "discountPrice": 92070,
-      "price": 99000,
-      "hasDiscount": true,
-      "districtName": "Mojokerto",
-      "brandName": "Hipzo",
-      "stock": 453,
-      "slug": "sepatu-wanita-d-14-korea-terbaru-2022-kekinian-original-asli-import-wanita-sneakers-lari-ootd-travel"
-  },
-  {
       "id": "42afe7c7-65e5-45a3-b7ea-56eb932c84aa",
       "name": "Hipzo - Hipzo-HIPZO Sepatu Sneaker M066 Casual Original Untuk Pria Dewasa Kerja Kuliah",
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b7e6b3-d35d-4b31-8c77-b771e8f8112a",
@@ -106,38 +94,5 @@
       "brandName": "One Space",
       "stock": 46,
       "slug": "one-space-hp-apple-iphone-13-128gb-garansi-resmi-ibox-indonesia"
-  },
-  {
-      "id": "574a9fbf-1062-4d72-9235-14edbfb551c5",
-      "name": "One Space - HP Apple Iphone 13 256GB Garansi Resmi IBox Indonesia",
-      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/8d468fce-707b-4d26-ab66-b3430b911f9b",
-      "discountPrice": 13975830,
-      "price": 14117000,
-      "category": {
-          "id": 3369,
-          "name": "Smartphone"
-      },
-      "hasDiscount": false,
-      "districtName": "Jakarta Pusat",
-      "brandName": "One Space",
-      "stock": 60,
-      "slug": "one-space-hp-apple-iphone-13-256gb-garansi-resmi-ibox-indonesia"
-  },
-  {
-      "id": "b51b73c3-2b0e-488d-83a6-b8c232fc3536",
-      "name": "One Space - HP Apple Iphone 14 512GB Garansi Resmi IBox Indonesia",
-      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1b4063e5-f0d7-4f2c-bc08-d90c856b1863",
-      "discountPrice": 20210850,
-      "price": 20415000,
-      "category": {
-          "id": 3369,
-          "name": "Smartphone"
-      },
-      "hasDiscount": false,
-      "districtName": "Jakarta Pusat",
-      "warehouseLabel": "Jakarta Pusat",
-      "brandName": "One Space",
-      "stock": 40,
-      "slug": "one-space-hp-apple-iphone-14-512gb-garansi-resmi-ibox-indonesia"
   }
 ]
