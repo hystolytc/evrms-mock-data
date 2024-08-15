@@ -53,10 +53,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1a1b3536-29a6-46c5-8ba5-e2cb6cf6ee13",
       "discountPrice": 10349440,
       "price": 10493980,
-      "category": {
-          "id": 3369,
-          "name": "Smartphone"
-      },
       "hasDiscount": true,
       "districtName": "Tasikmalaya",
       "brandName": "MR. Irka Phone",
@@ -69,10 +65,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/31a2dc5a-af45-4df4-93a2-6099a6549c99",
       "discountPrice": 7823970,
       "price": 7993000,
-      "category": {
-          "id": 3369,
-          "name": "Smartphone"
-      },
       "hasDiscount": true,
       "districtName": "Tasikmalaya",
       "brandName": "MR. Irka Phone",
@@ -85,14 +77,22 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/5c904040-bcd4-4fb3-85a4-c7d37152326f",
       "discountPrice": 11403810,
       "price": 11519000,
-      "category": {
-          "id": 3369,
-          "name": "Smartphone"
-      },
       "hasDiscount": false,
       "districtName": "Jakarta Pusat",
       "brandName": "One Space",
       "stock": 46,
       "slug": "one-space-hp-apple-iphone-13-128gb-garansi-resmi-ibox-indonesia"
+  },
+  {
+      "id": "1efd66c0-ead4-4c2e-b184-e3d594c1d94d",
+      "name": "Pustaka Arafah - Buku Ta'lim Mutaallim",
+      "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
+      "discountPrice": 35482,
+      "price": 45000,
+      "hasDiscount": true,
+      "districtName": "Sukoharjo",
+      "brandName": "Pustaka Arafah",
+      "stock": 96,
+      "slug": "pustaka-arafah-buku-ta-27lim-mutaallim"
   }
 ]

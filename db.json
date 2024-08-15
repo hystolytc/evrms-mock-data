@@ -84,6 +84,18 @@
           "brandName": "One Space",
           "stock": 46,
           "slug": "one-space-hp-apple-iphone-13-128gb-garansi-resmi-ibox-indonesia"
+      },
+      {
+        "id": "1efd66c0-ead4-4c2e-b184-e3d594c1d94d",
+        "name": "Pustaka Arafah - Buku Ta'lim Mutaallim",
+        "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
+        "discountPrice": 35482,
+        "price": 45000,
+        "hasDiscount": true,
+        "districtName": "Sukoharjo",
+        "brandName": "Pustaka Arafah",
+        "stock": 96,
+        "slug": "pustaka-arafah-buku-ta-27lim-mutaallim"
       }
     ],
     "pagination": {
@@ -93,18 +105,6 @@
   },
   "productsbmV4dHBhZ2U9Mg==": {
     "data": [
-      {
-          "id": "1efd66c0-ead4-4c2e-b184-e3d594c1d94d",
-          "name": "Pustaka Arafah - Buku Ta'lim Mutaallim",
-          "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
-          "discountPrice": 35482,
-          "price": 45000,
-          "hasDiscount": true,
-          "districtName": "Sukoharjo",
-          "brandName": "Pustaka Arafah",
-          "stock": 96,
-          "slug": "pustaka-arafah-buku-ta-27lim-mutaallim"
-      },
       {
           "id": "1d0698e9-2925-4728-a5f5-0c729814e9f0",
           "name": "Mizan Buku Pop-Up ABC",
