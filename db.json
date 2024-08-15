@@ -159,8 +159,10 @@
         "defaultSubVariantValue": "37",
         "stock": 97,
         "images": [
-            "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/e9df3848-9b5d-421a-ba0d-d0dd4c3c5262",
-            "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/953c1660-a599-4712-8b7d-a96fb246ab5e"
+          "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/e9df3848-9b5d-421a-ba0d-d0dd4c3c5262",
+          "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/1cdbbd01-ab05-41eb-a654-d52100841004",
+          "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/40be6a5c-4506-437c-a2f7-4a9ca950c8bd",
+          "https://assets.evermos.com/public/medium/q:100/evermos-production/product/model/23613010-de32-486e-bc6d-de4485166f69"
         ],
         "subVariants": [
             {
