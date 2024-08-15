@@ -5,10 +5,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
       "discountPrice": 35482,
       "price": 45000,
-      "category": {
-          "id": 3716,
-          "name": "Buku"
-      },
       "hasDiscount": true,
       "districtName": "Sukoharjo",
       "brandName": "Pustaka Arafah",
@@ -21,10 +17,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/mizan/product/image/62faf1154568c.jpg",
       "discountPrice": 122550,
       "price": 129000,
-      "category": {
-          "id": 3716,
-          "name": "Buku"
-      },
       "hasDiscount": false,
       "districtName": "Depok",
       "brandName": "Mizan",
@@ -37,10 +29,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/gema-insani/product/image/5fa116e59d986.jpg",
       "discountPrice": 52560,
       "price": 73000,
-      "category": {
-          "id": 3716,
-          "name": "Buku"
-      },
       "hasDiscount": false,
       "districtName": "Depok",
       "brandName": "Gema Insani",

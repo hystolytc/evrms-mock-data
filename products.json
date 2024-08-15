@@ -5,10 +5,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b4952a90-113c-4dee-afc9-6e94c5d7430c",
       "discountPrice": 89225,
       "price": 185000,
-      "category": {
-          "id": 3045,
-          "name": "Sepatu"
-      },
       "brandName": "Katakita",
       "districtName": "Bogor",
       "hasDiscount": true,
@@ -21,10 +17,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/c621e147-aa20-41ef-8af0-898ab4e13e00",
       "discountPrice": 92070,
       "price": 99000,
-      "category": {
-          "id": 3045,
-          "name": "Sepatu"
-      },
       "hasDiscount": true,
       "districtName": "Mojokerto",
       "brandName": "Hipzo",
@@ -37,10 +29,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b7e6b3-d35d-4b31-8c77-b771e8f8112a",
       "discountPrice": 111600,
       "price": 420000,
-      "category": {
-          "id": 3045,
-          "name": "Sepatu"
-      },
       "hasDiscount": true,
       "districtName": "Mojokerto",
       "brandName": "Hipzo",
@@ -53,10 +41,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/92d636d2-d60e-4625-a706-7e6ac9fb7d5c",
       "discountPrice": 130200,
       "price": 380000,
-      "category": {
-          "id": 3045,
-          "name": "Sepatu"
-      },
       "hasDiscount": true,
       "districtName": "Mojokerto",
       "brandName": "Hipzo",
@@ -69,10 +53,6 @@
       "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/030f30a2-e263-41aa-a4d5-c00d2a9c7841",
       "discountPrice": 247544,
       "price": 319000,
-      "category": {
-          "id": 3045,
-          "name": "Sepatu"
-      },
       "hasDiscount": true,
       "districtName": "Semarang",
       "brandName": "Eagle",

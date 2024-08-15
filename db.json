@@ -1,20 +1,4 @@
 {
-  "categories": {
-    "data": [
-      {
-        "id": 3045,
-        "name": "Sepatu"
-      },
-      {
-        "id": 3369,
-        "name": "Smartphone"
-      },
-      {
-        "id": 3716,
-        "name": "Buku"
-      }
-    ]
-  },
   "products": {
     "data": [
       {
@@ -23,10 +7,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b4952a90-113c-4dee-afc9-6e94c5d7430c",
           "discountPrice": 89225,
           "price": 185000,
-          "category": {
-              "id": 3045,
-              "name": "Sepatu"
-          },
           "brandName": "Katakita",
           "districtName": "Bogor",
           "hasDiscount": true,
@@ -39,10 +19,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/c621e147-aa20-41ef-8af0-898ab4e13e00",
           "discountPrice": 92070,
           "price": 99000,
-          "category": {
-              "id": 3045,
-              "name": "Sepatu"
-          },
           "hasDiscount": true,
           "districtName": "Mojokerto",
           "brandName": "Hipzo",
@@ -55,10 +31,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b7e6b3-d35d-4b31-8c77-b771e8f8112a",
           "discountPrice": 111600,
           "price": 420000,
-          "category": {
-              "id": 3045,
-              "name": "Sepatu"
-          },
           "hasDiscount": true,
           "districtName": "Mojokerto",
           "brandName": "Hipzo",
@@ -71,10 +43,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/92d636d2-d60e-4625-a706-7e6ac9fb7d5c",
           "discountPrice": 130200,
           "price": 380000,
-          "category": {
-              "id": 3045,
-              "name": "Sepatu"
-          },
           "hasDiscount": true,
           "districtName": "Mojokerto",
           "brandName": "Hipzo",
@@ -87,10 +55,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/030f30a2-e263-41aa-a4d5-c00d2a9c7841",
           "discountPrice": 247544,
           "price": 319000,
-          "category": {
-              "id": 3045,
-              "name": "Sepatu"
-          },
           "hasDiscount": true,
           "districtName": "Semarang",
           "brandName": "Eagle",
@@ -103,10 +67,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1a1b3536-29a6-46c5-8ba5-e2cb6cf6ee13",
           "discountPrice": 10349440,
           "price": 10493980,
-          "category": {
-              "id": 3369,
-              "name": "Smartphone"
-          },
           "hasDiscount": true,
           "districtName": "Tasikmalaya",
           "brandName": "MR. Irka Phone",
@@ -119,10 +79,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/31a2dc5a-af45-4df4-93a2-6099a6549c99",
           "discountPrice": 7823970,
           "price": 7993000,
-          "category": {
-              "id": 3369,
-              "name": "Smartphone"
-          },
           "hasDiscount": true,
           "districtName": "Tasikmalaya",
           "brandName": "MR. Irka Phone",
@@ -135,10 +91,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/5c904040-bcd4-4fb3-85a4-c7d37152326f",
           "discountPrice": 11403810,
           "price": 11519000,
-          "category": {
-              "id": 3369,
-              "name": "Smartphone"
-          },
           "hasDiscount": false,
           "districtName": "Jakarta Pusat",
           "brandName": "One Space",
@@ -151,10 +103,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/8d468fce-707b-4d26-ab66-b3430b911f9b",
           "discountPrice": 13975830,
           "price": 14117000,
-          "category": {
-              "id": 3369,
-              "name": "Smartphone"
-          },
           "hasDiscount": false,
           "districtName": "Jakarta Pusat",
           "brandName": "One Space",
@@ -167,10 +115,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/1b4063e5-f0d7-4f2c-bc08-d90c856b1863",
           "discountPrice": 20210850,
           "price": 20415000,
-          "category": {
-              "id": 3369,
-              "name": "Smartphone"
-          },
           "hasDiscount": false,
           "districtName": "Jakarta Pusat",
           "warehouseLabel": "Jakarta Pusat",
@@ -192,10 +136,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/product/model/b3b6a40d-35d6-4247-a27a-08753af19d90",
           "discountPrice": 35482,
           "price": 45000,
-          "category": {
-              "id": 3716,
-              "name": "Buku"
-          },
           "hasDiscount": true,
           "districtName": "Sukoharjo",
           "brandName": "Pustaka Arafah",
@@ -208,10 +148,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/mizan/product/image/62faf1154568c.jpg",
           "discountPrice": 122550,
           "price": 129000,
-          "category": {
-              "id": 3716,
-              "name": "Buku"
-          },
           "hasDiscount": false,
           "districtName": "Depok",
           "brandName": "Mizan",
@@ -224,10 +160,6 @@
           "coverImage": "https://assets.evermos.com/public/small/q:100/evermos-production/brand/gema-insani/product/image/5fa116e59d986.jpg",
           "discountPrice": 52560,
           "price": 73000,
-          "category": {
-              "id": 3716,
-              "name": "Buku"
-          },
           "hasDiscount": false,
           "districtName": "Depok",
           "brandName": "Gema Insani",
@@ -288,54 +220,6 @@
       },
       {
         "value": "Black",
-        "defaultSubVariantValue": "37",
-        "stock": 97,
-        "images": [],
-        "subVariants": [
-            {
-                "value": "37",
-                "stock": 19
-            },
-            {
-                "value": "38",
-                "stock": 20
-            },
-            {
-                "value": "39",
-                "stock": 19
-            },
-            {
-                "value": "40",
-                "stock": 19
-            }
-        ]
-      },
-      {
-        "value": "Cream",
-        "defaultSubVariantValue": "37",
-        "stock": 97,
-        "images": [],
-        "subVariants": [
-            {
-                "value": "37",
-                "stock": 19
-            },
-            {
-                "value": "38",
-                "stock": 20
-            },
-            {
-                "value": "39",
-                "stock": 19
-            },
-            {
-                "value": "40",
-                "stock": 19
-            }
-        ]
-      },
-      {
-        "value": "Gray",
         "defaultSubVariantValue": "37",
         "stock": 97,
         "images": [],
